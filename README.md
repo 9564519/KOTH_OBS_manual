@@ -1,1 +1,1 @@
-[Клац меня](https://github.com/9564519/stor_img_manual/releases/tag/reliz)
+[Клац меня](https://github.com/9564519/KOTH_OBS_manual/releases/tag/reliz)
